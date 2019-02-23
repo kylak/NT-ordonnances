@@ -1,20 +1,22 @@
-# NT-ordonnances
+# NT-ordonnances 
 
-  ## Objectif: 
-  ## *Avoir des ressources basiques (c.à.d simple liste) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier)* :
+*Read this in : [English](README.md)*
+
+  ### Objectif: 
+  ### Avoir des ressources basiques (c.à.d simple liste) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
  
-### - LIVRE :
-  - #### évangiles :
+#### - LIVRE :
+  - évangiles :
     - Matthieu
     - Marc
     - …
-  - #### épîtres : 
+  - épîtres : 
     - Romains
     -  …
-  - #### autres : 
+  - autres : 
     - Actes des apôtres
     - Apocalypse
- ### - ASSEMBLÉE (ou type de personne) à qui l'ordonnance est donnée : 
+ #### - ASSEMBLÉE (ou type de personne) à qui l'ordonnance est donnée : 
   - Toute personnes pouvant être apparenté à des croyants dans les évangiles : 
     - Aux "douze"
     - Aux "soixante-dix" disciples
@@ -36,9 +38,9 @@
      - Aux nouveaux nés spirituel
   …
  
- ### - la PERSONNE par laquelle l'ordonnance est donnée :
+ #### - la PERSONNE par laquelle l'ordonnance est donnée :
   - La Tête du Corps de Christ, le Chef
-    - J.ésus
+    - J.ésus lui-même
   - Un apôtre :
     - Simon Pierre, fils de Jonas
     - Jean, fils de Zébédée
@@ -46,24 +48,35 @@
   - Autres
     
  
- ### - PÉRIODE :
+ #### - PÉRIODE :
   - avant la crucifixion
   - après la crucifixion
   - avant la pentecôte
   - après la pentecôte
+  
+ #### - SORTE
+  - "positif" ("do")
+  - "négatif" ("don't")
  
- ### - THÉMATIQUE :
+ #### - TYPE
+  - commandement
+  - ordres, instructions
+  - conseil
+  
+ #### - THÉMATIQUE :
   - 
   - 
- et par éventuellement d'autres critères.
-
-  Ce qui serait vraiment bien (et normal ?) c'est qu'il soit cité le texte grec (et son apparat critique éventuelle) avant la traduction de celui-ci. C'est-à-dire, pour chaque ordonnance, avoir le texte grec relatif suivit d'une traduction française de celui-ci (de préférence Darby ou Martin). Et bien sûr aussi, j'allais oublié: la référence du verset.
-
-  Il ne s'agit pas de chercher à me justifier devant le S.eigneur en obéissant à de "nouvelles" ordonnances, car la foi a déjà justifié celui qui l'a possédée, mais il s'agit tout simplement de vivre la V.ie, car je sais que ces ordonnances, aussi discrètes qu'elles puissent paraître, sont des choses excellentes et que sans elles je ne saurais entrer dans la vie ni hériter le Royaume de D.ieu.
-
-  J'espère qu'après environ bientôt 2000 ans cela puisse se trouver …
-
-  Merci d'avance pour tout.
-  Demeurez bénis.
-
-  Gustav Berloty
+ 
+ #### - éventuellement d'autres critères
+ 
+ 
+ 
+ ## Pour ajouter une ordonnance dans un fichier :
+  #### - Citer le texte grec muni de ses "strongs" (sa famille (alexandrin, byzantin, …) et son apparat critique éventuel)
+  #### - Citer une traduction française (selon la famille du texte grec: Darby ou Martin 1707).
+  #### - Citer une traduction anglaise (selon la famille du texte grec: à déterminer).
+  #### - Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
+  
+  
+ ## Tout le monde peut participer et est invité à le faire !
+ 
