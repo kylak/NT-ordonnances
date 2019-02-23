@@ -3,7 +3,7 @@
 *Read this in : [English](README.md)*
 
   ### Objectif: 
-  ### Avoir des ressources basiques (c.à.d simple liste) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
+  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
  
 #### - LIVRE :
   - évangiles :
