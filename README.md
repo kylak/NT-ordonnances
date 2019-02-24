@@ -3,7 +3,7 @@
 *Read this in : [English](README.md)*
 
   ### Objectif: 
-  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
+  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données à des chrétiens, quel qu'ils soient, dans le nouveau testament, classées par :
  
 #### - LIVRE :
   - évangiles :
@@ -54,19 +54,16 @@
   - avant la pentecôte
   - après la pentecôte
   
- #### - SORTE
+ #### - SORTE :
   - "positif" ("do")
   - "négatif" ("don't")
  
- #### - TYPE
-  - commandement
-  - ordres, instructions
-  - conseil
+ #### - "ETIQUETTE" ? (voir si c'est pertinent)
+  - commandement (*ἐντολή, …? - strong n°1785, …?*)
+  - ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
+  - conseil (*γνώμη, …? - strong n°1106, …?*)
   
- #### - THÉMATIQUE :
-  - 
-  - 
- 
+ #### - THÉMATIQUE (à compléter)
  #### - éventuellement d'autres critères
  
  
