@@ -69,11 +69,9 @@
  
  
  ## Pour ajouter une ordonnance dans un fichier :
-  #### - Citer le texte grec muni de ses "strongs" (sa famille (alexandrin, byzantin, …) et son apparat critique éventuel)
-  #### - Citer une traduction française (selon la famille du texte grec: Darby ou Martin 1707).
-  #### - Citer une traduction anglaise (selon la famille du texte grec: à déterminer).
-  #### - Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
+  #### Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
   
+ **Exemple : `Lc 10:5`**  
   
  ## Tout le monde peut participer et est invité à le faire !
  
