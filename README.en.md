@@ -73,4 +73,4 @@
   
  ** Example: `Lc 10: 5` **
   
- ## Anyone can participate and is invited to do so!
+ ## Anyone can participate and is invited to do so!.
