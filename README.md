@@ -1,42 +1,43 @@
-# NT-ordonnances 
+# NT-ordinances
 
-*Read this in : [English](README_en.md)*
+*Read this in : [French](README.md)*
 
-  ### Objectif: 
-  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données à des chrétiens, quel qu'ils soient, dans le nouveau testament, classées par :
+  ### Goal: 
+  ### Have resources (simple lists) of all the ordinances given to Christians, whatever they are, in the New Testament, classified by :
  
-#### - LIVRE :
-  - évangiles :
-    - Matthieu
+#### - BOOK :
+  - gospels :
+    - Matthew
     - Marc
     - …
-  - épîtres : 
-    - Romains
+  - epistles : 
+    - Romans
     -  …
-  - autres : 
-    - Actes des apôtres
-    - Apocalypse
- #### - ASSEMBLÉE (ou type de personne) à qui l'ordonnance est donnée : 
-  - Toute personnes pouvant être apparenté à des croyants dans les évangiles : 
-    - Aux "douze"
-    - Aux "soixante-dix" disciples
-    - Aux disciples-croyants hors des douzes et des soixantes-dix 
-    - Aux foules (parmi lesquels se trouvent peut être des croyants)
-  - À L'assemblée de Corinthe
-  - À L'assemblée des Thessaloniciens
-  - Aux chrétiens romains (équivalent normalement au fichier sur l'épître aux Romains)
-  - Au type de chair :
-     - Aux hommes
-     - Aux femmes
-     - Aux enfants
-   - Au statut maritale :
-     - Aux couples
-     - Aux célibataires
-   - À l'état spirituel :
-     - Aux anciens
-     - Aux pécheurs (Jacques, …)
-     - Aux nouveaux nés spirituel
+  - others : 
+    - Acts of the apostles
+    - Revelation
+ #### - ASSEMBLY (or type of person) to whom the prescription is given : 
+  - Anyone who can be related to believers in the Gospels :
+    - At the "twelve"
+    - To the "seventy" disciples
+    - To the disciples-believers out of the twelve and sixty-ten 
+    - To the crowds (among which may be believers)
+  - At the Corinth Assembly
+  - At the assembly of Thessalonians
+  -To Roman Christians (normally equivalent to the Roman letter file)
+  - To the type of flesh:
+     - To men
+     - To women
+     - To children
+   - Marital status :
+     - To couples
+     - To singles
+   - In the spiritual state :
+     - To the elders
+     - To sinners (James, ...)
+     - To spiritual newborns
   …
+  
  
  #### - la PERSONNE par laquelle l'ordonnance est donnée :
   - La Tête du Corps de Christ, le Chef
@@ -48,30 +49,30 @@
   - Autres
     
  
- #### - PÉRIODE :
-  - avant la crucifixion
-  - après la crucifixion
-  - avant la pentecôte
-  - après la pentecôte
+ #### - PERIOD :
+  - before the crucifixion
+  - after the crucifixion
+  - before the Pentecost
+  - after the Pentecost
   
- #### - SORTE :
-  - "positif" ("do")
-  - "négatif" ("don't")
+ #### - TYPE :
+  - "positive" ("do")
+  - "négative" ("don't")
  
- #### - "ETIQUETTE" ? (voir si c'est pertinent)
-  - commandement (*ἐντολή, …? - strong n°1785, …?*)
-  - ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
-  - conseil (*γνώμη, …? - strong n°1106, …?*)
+ #### - "LABEL" ? (see if it's relevant)
+  - command (*ἐντολή, …? - strong n°1785, …?*)
+  - orders, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
+  - advice (*γνώμη, …? - strong n°1106, …?*)
   
- #### - THÉMATIQUE (à compléter)
- #### - éventuellement d'autres critères
+ #### - THEMATIC (to be completed)
+ #### - possibly other criteria
  
  
  
- ## Pour ajouter une ordonnance dans un fichier :
-  #### Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
+ ## To add a prescription to a file :
+  #### Quote the reference of the verse in the format: Book CHAPTER:BEGINNIG_VERSE:ENDED_VERSET, OTHER_VERSET
   
- **Exemple : `Lc 10:5`**  
+ **Example : `Lc 10:5`**  
   
- ## Tout le monde peut participer et est invité à le faire !
+ ## Anyone can participate and is invited to do so !
  
