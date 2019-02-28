@@ -3,7 +3,7 @@
 *Read this in : [English](README_en.md)*
 
   ### Objectif: 
-  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
+  ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données à des chrétiens, quel qu'ils soient, dans le nouveau testament, classées par :
  
 #### - LIVRE :
   - évangiles :
@@ -54,29 +54,24 @@
   - avant la pentecôte
   - après la pentecôte
   
- #### - SORTE
+ #### - SORTE :
   - "positif" ("do")
   - "négatif" ("don't")
  
- #### - TYPE
-  - commandement
-  - ordres, instructions
-  - conseil
+ #### - "ETIQUETTE" ? (voir si c'est pertinent)
+  - commandement (*ἐντολή, …? - strong n°1785, …?*)
+  - ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
+  - conseil (*γνώμη, …? - strong n°1106, …?*)
   
- #### - THÉMATIQUE :
-  - 
-  - 
- 
+ #### - THÉMATIQUE (à compléter)
  #### - éventuellement d'autres critères
  
  
  
  ## Pour ajouter une ordonnance dans un fichier :
-  #### - Citer le texte grec muni de ses "strongs" (sa famille (alexandrin, byzantin, …) et son apparat critique éventuel)
-  #### - Citer une traduction française (selon la famille du texte grec: Darby ou Martin 1707).
-  #### - Citer une traduction anglaise (selon la famille du texte grec: à déterminer).
-  #### - Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
+  #### Citer la référence du verset dans le format :     Livre CHAPITRE:VERSET_DÉBUT:VERSET_FIN, AUTRE_VERSET
   
+ **Exemple : `Lc 10:5`**  
   
  ## Tout le monde peut participer et est invité à le faire !
  
