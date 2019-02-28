@@ -1,6 +1,6 @@
 # NT-ordonnances 
 
-*Read this in : [English](README.md)*
+*Read this in : [English](README_en.md)*
 
   ### Objectif: 
   ### Avoir des ressources (simples listes) de l'ensemble des ordonnances données (à des chrétiens quel qu'ils soient) dans le nouveau testament, classées par (dossier) :
