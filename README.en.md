@@ -55,14 +55,16 @@
   - before the Pentecost
   - after the Pentecost
   
- #### - TYPE :
+ #### - STATE :
   - "positive" ("do")
   - "négative" ("don't")
  
- #### - "LABEL" ? (see if it's relevant)
+ #### - TYPE
   - command (*ἐντολή, …? - strong n°1785, …?*)
-  - orders, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
+  - beseeching (*ἐρωτάω - strong n°2065*)
+  - exorthation (*παρακαλέω - strong n°3870*)
   - advice (*γνώμη, …? - strong n°1106, …?*)
+  - (see if it's relevant: orders, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ?)
   
  #### - THEMATIC (to be completed)
  #### - possibly other criteria
