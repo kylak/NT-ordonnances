@@ -54,14 +54,16 @@
   - avant la pentecôte
   - après la pentecôte
   
- #### - SORTE :
+ #### - ÉTAT :
   - "positif" ("do")
   - "négatif" ("don't")
  
- #### - "ETIQUETTE" ? (voir si c'est pertinent)
+ #### - TYPE
   - commandement (*ἐντολή, …? - strong n°1785, …?*)
-  - ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*)
+  - demande-prière (*ἐρωτάω - strong n°2065*)
+  - exorthation (*παρακαλέω - strong n°3870*)
   - conseil (*γνώμη, …? - strong n°1106, …?*)
+  - (voir si c'est pertinent: ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ?)
   
  #### - THÉMATIQUE (à compléter)
  #### - éventuellement d'autres critères
