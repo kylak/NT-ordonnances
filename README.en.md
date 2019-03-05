@@ -62,6 +62,7 @@
  #### - TYPE
   - command (*ἐντολή, …? - strong n°1785, …?*)
   - beseeching (*ἐρωτάω - strong n°2065*)
+  - "indirect" (1 Thess 4:3-4, …)
   - exorthation (*παρακαλέω - strong n°3870*)
   - advice (*γνώμη, …? - strong n°1106, …?*)
   - (see if it's relevant: orders, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ?)
