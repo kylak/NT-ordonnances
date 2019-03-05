@@ -61,6 +61,7 @@
  #### - TYPE
   - commandement (*ἐντολή, …? - strong n°1785, …?*)
   - demande-prière (*ἐρωτάω - strong n°2065*)
+  - "indirecte" (1 Thess 4:3-4, …)
   - exorthation (*παρακαλέω - strong n°3870*)
   - conseil (*γνώμη, …? - strong n°1106, …?*)
   - (voir si c'est pertinent: ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ?)
