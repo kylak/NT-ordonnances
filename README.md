@@ -67,7 +67,7 @@
   - à déterminer
   - (voir si c'est pertinent: ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ?)
 
- #### - THÉMATIQUE (à compléter)
+ #### - THÉMATIQUE (voir le dossier)
  #### - éventuellement d'autres critères
 
 
@@ -78,3 +78,4 @@
  **Exemple : `Lc 10:5`**  
 
  ## Tout le monde peut participer et est invité à le faire !
+ # Si vous ne connaissiez pas Github avant, vous pouvez aussi m'envoyer par email votre aide pour que je l'ajoute au projet.
