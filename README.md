@@ -77,5 +77,5 @@
 
  **Exemple : `Lc 10:5`**  
 
- ## Tout le monde peut participer et est invité à le faire !
- # Si vous ne connaissiez pas Github avant, vous pouvez aussi m'envoyer par email votre aide pour que je l'ajoute au projet.
+ ### Tout le monde peut participer et est invité à le faire !
+ #### Si vous ne connaissiez pas Github avant, vous pouvez aussi m'envoyer par email votre aide pour que je l'ajoute au projet: gustavberloty2@gmail.com .
