@@ -47,7 +47,7 @@
   - Un apôtre :
     - Simon Pierre, fils de Jonas
     - Jean, fils de Zébédée
-    - Paul, de Tarse, appelé précédemment Saul.
+    - Paul, de Tarse, appelé précédemment Saul. (1 Cor 11:2)
   - Autres
 
 #### - PÉRIODE :
