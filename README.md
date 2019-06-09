@@ -1,4 +1,4 @@
-# NT-ordonnances
+# NT-ordonnances (NTO)
 
 [![Join the chat at https://gitter.im/NT-ordonnances/community](https://badges.gitter.im/NT-ordonnances/community.svg)](https://gitter.im/NT-ordonnances/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -75,7 +75,9 @@
 
 ## Pour ajouter une ordonnance dans un fichier :
 
-- Afin d'éviter toute erreur, l'emploi d'au moins une traduction littérale est vivement conseillé (les traductions dynamiques restent toujours intéressantes), le mieux étant d'utiliser (ou de vérifier dans) les textes grec directement.
+##### Les branches autres que master ne sont que des branches de développement. Si vous voulez consulter la dernière version du Readme soyez sur la branche master.
+
+- Afin d'éviter toute erreur, l'emploi d'au moins une traduction littérale est vivement conseillé, le mieux étant d'utiliser (ou de vérifier dans) les textes grec directement.
 
 - Citer la référence du verset dans ce format classique: ``livre chapitre:verset_début:verset_fin, autre_verset``
 
@@ -92,12 +94,16 @@ Lc 13:43,
 - Classez vos ordonnances dans le ou les fichiers adaptés en enregistrant toute modification dans la ou les branche(s) concerncée(s).
 
  **Exemple :**
- - Si je veux ajouter toutes les ordonnances qui sont dans l'épitre aux hébreux, je me place sur la branche "livre" et ajoute les références des versets concerncés dans le fichier hébreux.csv, puis 'commit' et 'push'.
+ - Si je veux ajouter toutes les ordonnances qui sont dans l'épitre aux hébreux, je me place sur la branche "livre" et ajoute les références des versets concerncés dans le fichier hébreux.csv et all.csv, puis 'commit' et 'push'.
  - Si je veux classer des ordonnances, je peux classer celles qui ont été ajoutées dans la branche livre et qui n'ont pas été encore classées ou sinon ajouter des ordonnances dans la branche livre (qui n'y ont pas encore été ajoutées) et les classer en même temps. Concrètement, si je veux classer des ordonnances par thématique, ou période ou autres, je me place sur la branche concernée, je classe dans les fichiers puis 'commit' et 'push'.
 
 
 ##### Condition pour ajouter les ordonnances d'un livre sur la branche master:
- - que les ordonnances du livre aient été classées dans toutes les catégories possibles.
+ - que les ordonnances du livre aient été classées dans toutes les catégories possibles (c'est-à-dire dans toutes les branches du repository (master exclue) ).
+
+##### Si quelqu'un souhaite modifier le Readme:
+  - ne le modifier que sur la branche master.
+
 
 ### Tout le monde peut participer et est invité à le faire !
 #### Si vous ne connaissiez pas Github avant, vous pouvez aussi m'envoyer par email votre aide pour que je l'ajoute au projet: gustavberloty2@gmail.com .
