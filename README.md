@@ -99,7 +99,7 @@ Lc 13:43,
 
 
 ##### Condition pour ajouter les ordonnances d'un livre sur la branche master:
- - que les ordonnances du livre aient été classées dans toutes les catégories possibles (c'est-à-dire dans toutes les branches du repository (master exclue) ).
+ - que les ordonnances du livre aient été classées dans toutes les catégories possibles (c'est-à-dire dans toutes les branches du repository (master exclue)). Une fois cette condition validée, il faut merger toutes les branches excepté master sur livre puis ensuite merger livre sur master.
 
 ##### Si quelqu'un souhaite modifier le Readme:
   - ne le modifier que sur la branche master.
