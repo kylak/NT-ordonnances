@@ -79,9 +79,12 @@
 
 - Afin d'éviter toute erreur, l'emploi d'au moins une traduction littérale est vivement conseillé, le mieux étant d'utiliser (ou de vérifier dans) les textes grec directement.
 
-- Citer la référence du verset dans ce format classique: ``livre chapitre:verset_début:verset_fin, autre_verset``
+- Citer la référence du verset dans ce format classique: ``Livre chapitre:verset``
 
-- Après chaque verset, ajouter une virgule, et faire un retour à la ligne.
+Attention, il peut se trouver plusieurs ordonnances dans un seul et même verset, dans un tel cas, dupliquer la référence de ce verset autant de fois qu'il contient d'ordonnance.  
+Aussi, une ordonnance peut "s'étaler" sur plusieurs versets contigus, dans ce cas, il faut utiliser un tiret "-" comme pour une référence classique : ``Livre chapitre:verset_début-verset_fin``
+
+- Après chaque référence ajoutée, ajouter une virgule, et faire un retour à la ligne.
 
  **Exemple :**
  - pour un verset:  `Lc 10:5,`
