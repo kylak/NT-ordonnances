@@ -65,10 +65,12 @@
   - demande-prière (*ἐρωτάω - strong n°2065*)
   - "indirecte" (Actes 13:47, 1 Thess 4:3-4, …)
   - exorthation (*παρακαλέω - strong n°3870*)
+  - question (Rm 3:7, …)
   - conseil (*γνώμη, …? - strong n°1106, …?*)
   - ( voir si c'est pertinent: ordres, instructions (*δικαίωμα, ἐπιταγή, … - strong n°1345, 2003, …*) ? voir "LOI" page 891 de "Le Pentatqueque" de la Bible d'Alexandrie les éditions du cerf 2001 )
 
-#### - THÉMATIQUE (voir le dossier)
+#### - THÉMATIQUE 
+(voir https://github.com/kylak/greekNTO-classificationProgram)
 #### - possiblement d'autres critères
 
 
