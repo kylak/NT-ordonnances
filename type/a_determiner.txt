@@ -1,6 +1,22 @@
-1 Thess 5:23 "que" -> commandement ou exorthation (4:14) ?
-1 Thess 5:25 "Frères" -> N'est-ce pas la marque d'un "nouveau paragraphe" ?
-2 Thess 1:3-4
-2 Thess 2:13
-2 Thess 3:4
+Dû à leur status de "à déterminer" la plupart de ces ordonnances n'ont pas été classés ni ajouté à all.csv
+
+1 Thess 5:23 "que" -> commandement ou exhortation (4:14) ?
+1 Thess 5:25, 26 "Frères" -> N'est-ce pas la marque d'un "nouveau paragraphe" ?
 2 Thess 3:6, 12 "nous vous enjoignons"
+1 Tim 2:8, 9-10 "Je veux"
+1 Tim 2:12 "je ne permets pas"
+1 Tim 5:4,
+1 Tim 5:14 "Je veux"
+2 Tim 2:6,
+2 Tim 2:14, je ne vois plus pourquoi c'est à déterminer …
+2 Tim 2:24
+2 Tim 2:24
+2 Tim 2:24
+2 Tim 2:24
+2 Tim 2:25,
+
+
+ON LES A CLASSE : 
+
+[checké] 2 Thess 3:12 "nous vous enjoignons" : cela est normal car il y a aussi "nous vous exhortons".
+[checké] 2 Tim 2:14, : car je ne vois plus pourquoi c'est à déterminer.
